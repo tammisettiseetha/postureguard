@@ -1,0 +1,201 @@
+,0,1,2,3
+0,50548.0,2864.0,same posture,alert
+1,51048.0,2850.0,same posture,alert
+2,51548.0,2862.0,same posture,alert
+3,52048.0,2857.0,same posture,alert
+4,52548.0,2852.0,same posture,alert
+5,53048.0,2855.0,same posture,alert
+6,53548.0,2800.0,posture changed,normal
+7,54048.0,2859.0,posture changed,normal
+8,54548.0,2856.0,same posture,no action
+9,55048.0,2847.0,same posture,no action
+10,55548.0,2847.0,same posture,no action
+11,56048.0,2834.0,same posture,no action
+12,56548.0,2821.0,same posture,no action
+13,57048.0,2921.0,posture changed,normal
+14,57548.0,3504.0,posture changed,normal
+15,58048.0,3859.0,posture changed,normal
+16,58548.0,3824.0,same posture,no action
+17,59048.0,3873.0,same posture,no action
+18,59548.0,3775.0,posture changed,normal
+19,60048.0,3761.0,same posture,no action
+20,60548.0,3749.0,same posture,no action
+21,61048.0,3569.0,posture changed,normal
+22,61548.0,2865.0,posture changed,normal
+23,62048.0,2880.0,same posture,no action
+24,62548.0,2879.0,same posture,no action
+25,63048.0,2886.0,same posture,no action
+26,63548.0,2871.0,same posture,no action
+27,64048.0,2871.0,same posture,no action
+28,64548.0,2874.0,same posture,no action
+29,65048.0,2874.0,same posture,no action
+30,65548.0,2873.0,same posture,no action
+31,66048.0,2874.0,same posture,no action
+32,66548.0,2903.0,same posture,no action
+33,67048.0,3488.0,posture changed,normal
+34,67548.0,3729.0,posture changed,normal
+35,68048.0,3583.0,posture changed,normal
+36,68548.0,3809.0,posture changed,normal
+37,69048.0,3713.0,posture changed,normal
+38,69548.0,3801.0,posture changed,normal
+39,70048.0,3600.0,posture changed,normal
+40,70548.0,3745.0,posture changed,normal
+41,71048.0,3699.0,same posture,no action
+42,71548.0,3599.0,posture changed,normal
+43,72048.0,3506.0,posture changed,normal
+44,72548.0,3534.0,same posture,no action
+45,73048.0,3488.0,same posture,no action
+46,73548.0,3146.0,posture changed,normal
+47,74048.0,2947.0,posture changed,normal
+48,74548.0,0.0,posture changed,normal
+49,75048.0,2846.0,posture changed,normal
+50,75548.0,0.0,posture changed,normal
+51,76048.0,0.0,same posture,no action
+52,76548.0,0.0,same posture,no action
+53,77048.0,2608.0,posture changed,normal
+54,77548.0,2723.0,posture changed,normal
+55,78048.0,2703.0,same posture,no action
+56,78548.0,2819.0,posture changed,normal
+57,79048.0,2756.0,posture changed,normal
+58,79548.0,2863.0,posture changed,normal
+59,80048.0,2739.0,posture changed,normal
+60,80548.0,3027.0,posture changed,normal
+61,81048.0,3013.0,same posture,no action
+62,81548.0,0.0,posture changed,normal
+63,82048.0,0.0,same posture,no action
+64,82548.0,0.0,same posture,no action
+65,83048.0,0.0,same posture,no action
+66,83548.0,0.0,same posture,no action
+67,84048.0,0.0,same posture,no action
+68,84548.0,0.0,same posture,no action
+69,85048.0,0.0,same posture,no action
+70,85548.0,0.0,same posture,no action
+71,86048.0,0.0,same posture,no action
+72,86548.0,0.0,same posture,no action
+73,87048.0,0.0,same posture,no action
+74,87548.0,0.0,same posture,no action
+75,88048.0,0.0,same posture,no action
+76,88548.0,0.0,same posture,no action
+77,89048.0,0.0,same posture,no action
+78,89548.0,0.0,same posture,no action
+79,90048.0,0.0,same posture,no action
+80,90548.0,0.0,same posture,no action
+81,91048.0,0.0,same posture,no action
+82,91548.0,0.0,same posture,no action
+83,92048.0,0.0,same posture,alert
+84,92548.0,0.0,same posture,alert
+85,93048.0,0.0,same posture,alert
+86,93548.0,0.0,same posture,alert
+87,94048.0,0.0,same posture,alert
+88,94548.0,0.0,same posture,alert
+89,95048.0,0.0,same posture,alert
+90,95548.0,0.0,same posture,alert
+91,96048.0,0.0,same posture,alert
+92,96548.0,0.0,same posture,alert
+93,97048.0,0.0,same posture,alert
+94,97548.0,0.0,same posture,alert
+95,98048.0,0.0,same posture,alert
+96,98548.0,0.0,same posture,alert
+97,99048.0,0.0,same posture,alert
+98,99548.0,0.0,same posture,alert
+99,100048.0,0.0,same posture,alert
+100,100548.0,0.0,same posture,alert
+101,101048.0,0.0,same posture,alert
+102,101548.0,0.0,same posture,alert
+103,102048.0,0.0,same posture,alert
+104,102548.0,0.0,same posture,alert
+105,103048.0,0.0,same posture,alert
+106,103548.0,0.0,same posture,alert
+107,104048.0,0.0,same posture,alert
+108,104548.0,0.0,same posture,alert
+109,105048.0,0.0,same posture,alert
+110,105548.0,0.0,same posture,alert
+111,106048.0,0.0,same posture,alert
+112,106548.0,0.0,same posture,alert
+113,107048.0,0.0,same posture,alert
+114,107548.0,0.0,same posture,alert
+115,108048.0,0.0,same posture,alert
+116,108548.0,0.0,same posture,alert
+117,109048.0,0.0,same posture,alert
+118,109548.0,0.0,same posture,alert
+119,110048.0,0.0,same posture,alert
+120,110548.0,0.0,same posture,alert
+121,111048.0,0.0,same posture,alert
+122,111548.0,0.0,same posture,alert
+123,112048.0,0.0,same posture,alert
+124,112548.0,0.0,same posture,alert
+125,113048.0,0.0,same posture,alert
+126,113548.0,0.0,same posture,alert
+127,114048.0,0.0,same posture,alert
+128,114548.0,0.0,same posture,alert
+129,115048.0,0.0,same posture,alert
+130,115548.0,0.0,same posture,alert
+131,116048.0,0.0,same posture,alert
+132,116548.0,0.0,same posture,alert
+133,117048.0,0.0,same posture,alert
+134,117548.0,0.0,same posture,alert
+135,118048.0,0.0,same posture,alert
+136,118548.0,0.0,same posture,alert
+137,119048.0,0.0,same posture,alert
+138,119548.0,0.0,same posture,alert
+139,120048.0,0.0,same posture,alert
+140,120548.0,0.0,same posture,alert
+141,121048.0,0.0,same posture,alert
+142,121548.0,0.0,same posture,alert
+143,122048.0,0.0,same posture,alert
+144,122548.0,0.0,same posture,alert
+145,123048.0,0.0,same posture,alert
+146,123548.0,0.0,same posture,alert
+147,124048.0,0.0,same posture,alert
+148,124548.0,0.0,same posture,alert
+149,125048.0,0.0,same posture,alert
+150,125548.0,0.0,same posture,alert
+151,126048.0,0.0,same posture,alert
+152,126548.0,0.0,same posture,alert
+153,127048.0,0.0,same posture,alert
+154,127548.0,0.0,same posture,alert
+155,128048.0,0.0,same posture,alert
+156,128548.0,0.0,same posture,alert
+157,129048.0,64.0,posture changed,normal
+158,129548.0,0.0,posture changed,normal
+159,130048.0,0.0,same posture,no action
+160,130548.0,0.0,same posture,no action
+161,131048.0,0.0,same posture,no action
+162,131548.0,0.0,same posture,no action
+163,132048.0,0.0,same posture,no action
+164,132548.0,0.0,same posture,no action
+165,133048.0,0.0,same posture,no action
+166,133548.0,0.0,same posture,no action
+167,134048.0,0.0,same posture,no action
+168,134548.0,0.0,same posture,no action
+169,135048.0,0.0,same posture,no action
+170,135548.0,0.0,same posture,no action
+171,136048.0,0.0,same posture,no action
+172,136548.0,0.0,same posture,no action
+173,137048.0,0.0,same posture,no action
+174,137548.0,0.0,same posture,no action
+175,138048.0,0.0,same posture,no action
+176,138548.0,0.0,same posture,no action
+177,139048.0,0.0,same posture,no action
+178,139548.0,0.0,same posture,no action
+179,140048.0,0.0,same posture,alert
+180,140548.0,0.0,same posture,alert
+181,141048.0,0.0,same posture,alert
+182,141548.0,0.0,same posture,alert
+183,142048.0,0.0,same posture,alert
+184,142548.0,0.0,same posture,alert
+185,143048.0,0.0,same posture,alert
+186,143548.0,0.0,same posture,alert
+187,144048.0,0.0,same posture,alert
+188,144548.0,0.0,same posture,alert
+189,145048.0,0.0,same posture,alert
+190,145548.0,0.0,same posture,alert
+191,146048.0,0.0,same posture,alert
+192,146548.0,0.0,same posture,alert
+193,147048.0,0.0,same posture,alert
+194,147548.0,0.0,same posture,alert
+195,148048.0,0.0,same posture,alert
+196,148548.0,0.0,same posture,alert
+197,149048.0,0.0,same posture,alert
+198,149548.0,0.0,same posture,alert
+199,150048.0,0.0,same posture,alert
